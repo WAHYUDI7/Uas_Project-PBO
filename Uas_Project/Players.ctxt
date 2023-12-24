@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Players
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Players\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=left\ right\ down\ up
+comment2.target=void\ checkKeyPress(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Check\ whether\ a\ contral\ key\ on\ the\ keyboard\ has\ been\ pressed.\r\n\ If\ it\ has,\ react\ accordingly.\r\n
+comment3.params=
+comment3.target=int\ getScore()
+comment3.text=\r\n\ Return\ score.\r\n
+comment4.params=
+comment4.target=void\ lookingForCherry()
+comment5.params=
+comment5.target=void\ lookingForBomb()
+comment6.params=
+comment6.target=void\ lookingForBananas()
+comment7.params=
+comment7.target=void\ lookingForApel()
+comment8.params=
+comment8.target=void\ meledak()
+numComments=9
